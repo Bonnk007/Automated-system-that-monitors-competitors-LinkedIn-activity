@@ -19,3 +19,7 @@
 * SENDING CONNECTION REQUESTS
 * ENDING
   
+# LIBRARIES USED 
+Selenium
+Beautiful Soup 
+Requests
